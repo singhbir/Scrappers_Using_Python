@@ -6,3 +6,6 @@ This scrapper Helps Us to Scrap The sites which are javascript Protected using *
 
 ## FLIPKART and AMAZON WEBSCRAPPER
 these scrapper helps us to scrap prices and different models of different categories
+
+## Indeed Job Scrapper
+This script is used find jobs and salary by giving Your some Information
